@@ -1,2 +1,3 @@
-# holiday-photo-stop
-Holiday photo frame and life-size snowman, in your phone browser
+# Holiday Photo Stop
+
+Scan, snap, share. A holiday photo frame and a life-size snowman, right in your phone browser.
